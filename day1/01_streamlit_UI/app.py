@@ -37,8 +37,8 @@ st.write(f"こんにちは、{name}さん！")
 
 # ボタン
 # st.subheader("ボタン")
-# if st.button("クリックしてください"):
-#     st.success("ボタンがクリックされました！")
+ if st.button("クリックしてください"):
+     st.success("ボタンがクリックされました！")
 
 # チェックボックス
 # st.subheader("チェックボックス")
